@@ -3,7 +3,7 @@ Aaron Stopher </br>
 2022
 
 ### Description
-Exploration of SHAP visualisations with Keras Multi Layered Perceptron (MLP), Classifiers, and Regresors using seaborn datasets. </br>
+Exploration of SHAP visualizations with Keras Multi Layered Perceptron (MLP), Classifiers, and Regressors using seaborn datasets. </br>
 
 ### Data Sources
 * [Seaborn](https://github.com/mwaskom/seaborn-data)
